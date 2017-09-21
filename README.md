@@ -60,8 +60,12 @@ Refreshing the emulator seems to cause a crash as well, since (it seems) that co
 ---
 
 4. Start React Native like normal
+
    4.1 Start packager
+
    `$ yarn run start`
+
    4.2 Start the project
+
    `$ react-native ios`
 
